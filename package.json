@@ -1,18 +1,14 @@
 {
   "name": "packphoto",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "description": "图床仓库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/packphoto.git"
-  },
   "keywords": [
     "图床"
   ],
-  "author": "hopelight",
+  "author": "HopeLight",
   "license": "ISC"
 }
