@@ -1,6 +1,6 @@
 {
   "name": "packphoto",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "图床仓库",
   "main": "index.js",
   "scripts": {
